@@ -1,6 +1,3 @@
-#9) Crie uma função recursiva que calcule o fatorial de um número n. A função deve retornar -1 caso não seja possível calcular o fatorial 
-# Além disso, crie um algoritmo que leia um valor, utilize a função criada para calcular o fatorial e imprima o valor computado.
-
 def fatorial(N):
     if N < 0:
         return -1
