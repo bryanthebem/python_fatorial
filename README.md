@@ -1,2 +1,2 @@
 # python_fatorial
-Recursive function to find factorial in Python.
+Some ways to find a factorial of a number in Python
